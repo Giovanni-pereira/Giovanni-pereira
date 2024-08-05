@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖥️✨
 
-<!--
-**Giovanni-pereira/Giovanni-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer sou Giovanni Pereira
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- tenho 16 anos de idade
+- estou estudando programção
+- estou me desenvolvendo no ramo de programação de apps e jogos
+- e a maior parte que conheso que tenho é programação e de linguagem scrah
+
+### caso queira entrar em contato📧
+
+Giovanni.gpf2021@gmail.com
+
+![](https://c.tenor.com/cs0KmBfnVYQAAAAd/tenor.gif)
+
